@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95ebf1a84b50b4996b74d4d1c1895739, type: 3}
+  m_Name: DifficultySetting_Hard
+  m_EditorClassIdentifier: 
+  gravity: 2
+  drag: 2
+  frontSize: 2
+  backSize: 2

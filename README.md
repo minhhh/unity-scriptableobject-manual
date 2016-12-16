@@ -1,2 +1,3 @@
 # unity-test-scriptableobject
-Test different usecases of ScriptableObject
+
+Example code of the blog [Understanding ScriptableObject](http://minhhh.github.io/posts/understanding-unity-scriptableobject)
