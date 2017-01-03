@@ -1,4 +1,4 @@
-# unity-test-scriptableobject
+# ScriptableObject usecases
 
 In the [Introduction to Scriptable Objects](https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/scriptable-objects) tutorial, they claim that `Scriptable Objects are amazing data containers`. However, it's not clear how useful Scriptable Objects really is, and what problems they're trying to solve. In this article we will look at all usecases of Scriptable Objects, what issues they're trying to solve, what the original solutions are, and what the pros and cons of each approach are.
 
